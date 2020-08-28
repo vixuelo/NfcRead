@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286400761169",
+    "firebase_url": "https://nfcread-b6ae9.firebaseio.com",
+    "project_id": "nfcread-b6ae9",
+    "storage_bucket": "nfcread-b6ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286400761169:android:d165290624a525fa34d770",
+        "android_client_info": {
+          "package_name": "es.madrid.nfcreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286400761169-kac3u14tbk9v7nmffv9kkjllp7khcn1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJ19njaxMRpuetPeiE1L_1VxrKR25Oak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286400761169-kac3u14tbk9v7nmffv9kkjllp7khcn1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
